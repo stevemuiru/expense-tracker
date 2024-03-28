@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    place-items: center;
+}
+.container{
+    border: 1px solid grey;
+    padding: 32px;
+}
+h1{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+#h2{
+    font-size: 1.6rem;
+}
+#submit{
+    background-color: #0000FF;
+    border: 0;
+    padding: 4px;
+    color: #FFFFFF;
+
+}
