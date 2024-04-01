@@ -26,3 +26,5 @@ submit.addEventListener('click', function() {
   expense.value = "";
   amount.value = "";
 })
+
+
